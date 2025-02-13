@@ -1,2 +1,6 @@
 # Proyecto:
-Este proyecto contiene toda la documentación relativa a la evaluación final de Sandra Simón.
+
+
+## Objetivo:
+
+- crear una XXX , hay que explicarlo en lenguaje humano y no en lenguaje python.
